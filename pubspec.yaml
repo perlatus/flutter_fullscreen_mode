@@ -1,0 +1,11 @@
+name: fullscreen_mode
+description: A new flutter plugin project.
+
+flutter:
+  plugin:
+    androidPackage: com.yourcompany.fullscreen_mode
+    pluginClass: FullscreenModePlugin
+
+dependencies:
+  flutter:
+    sdk: flutter
