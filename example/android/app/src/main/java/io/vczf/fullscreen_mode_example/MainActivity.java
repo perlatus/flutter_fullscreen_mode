@@ -1,4 +1,4 @@
-package com.yourcompany.fullscreen_mode_example;
+package io.vczf.fullscreen_mode_example;
 
 import android.os.Bundle;
 

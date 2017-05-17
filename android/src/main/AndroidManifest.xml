@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.yourcompany.fullscreen_mode"
+  package="io.vczf.fullscreen_mode"
   android:versionCode="1"
   android:versionName="0.0.1">
 

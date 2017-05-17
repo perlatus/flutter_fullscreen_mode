@@ -1,8 +1,13 @@
 # fullscreen_mode
 
-A new flutter plugin project.
+Enter and exit fullscreen mode in Flutter apps.
+
+Currently Android-only.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+Enter fullscreen mode: `FullscreenMode.setFullscreen()`
+
+Exit fullscreen mode: `FullscreenMode.setNormal()`
+
+![demo!](https://raw.githubusercontent.com/perlatus/flutter_fullscreen_mode/master/demo.gif)

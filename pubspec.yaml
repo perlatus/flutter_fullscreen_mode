@@ -1,9 +1,9 @@
 name: fullscreen_mode
-description: A new flutter plugin project.
+description: Immersive fullscreen for Flutter.
 
 flutter:
   plugin:
-    androidPackage: com.yourcompany.fullscreen_mode
+    androidPackage: io.vczf.fullscreen_mode
     pluginClass: FullscreenModePlugin
 
 dependencies:

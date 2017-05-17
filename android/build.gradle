@@ -1,4 +1,4 @@
-group 'com.yourcompany.fullscreen_mode'
+group 'io.vczf.fullscreen_mode'
 version '1.0-SNAPSHOT'
 
 buildscript {

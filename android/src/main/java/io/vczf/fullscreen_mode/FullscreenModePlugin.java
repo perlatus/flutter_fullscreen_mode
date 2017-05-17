@@ -1,4 +1,4 @@
-package com.yourcompany.fullscreen_mode;
+package io.vczf.fullscreen_mode;
 
 import io.flutter.app.FlutterActivity;
 import io.flutter.plugin.common.MethodChannel;
