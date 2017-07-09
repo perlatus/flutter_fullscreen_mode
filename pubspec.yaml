@@ -4,7 +4,7 @@ description: Immersive fullscreen for Flutter.
 author: perlatus <perlatus@fullscreen_mode.email.vczf.io>
 homepage: https://github.com/perlatus/flutter_fullscreen_mode
 
-version: 1.0.0
+version: 1.0.1
 
 flutter:
   plugin:
